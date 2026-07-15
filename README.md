@@ -101,6 +101,7 @@ The true average delivery time lies between **29.35 and 30.55 minutes**.
 The true average weekly study hours lie between **14.78 and 16.16 hours**.
 
 **Hypothesis Testing Results:**
+
 For both AutoDrive Components Ltd. and FreshBake Foods Pvt. Ltd., the hypothesis tests resulted in accepting the null hypothesis (H₀). 
 This indicates that there is insufficient statistical evidence to conclude that the actual assembly time or baking time has increased beyond the values
 predicted by the theoretical models.
