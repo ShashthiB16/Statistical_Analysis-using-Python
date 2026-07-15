@@ -1,4 +1,4 @@
-**Statistics Analysis of Petrol Consumption Dataset using Python**
+# **Statistics Analysis of Petrol Consumption Dataset using Python**
 
 **Project Objectives**
 
@@ -52,9 +52,13 @@ Features:
 **📊 Project Workflow**
 
 Step 1: Import Libraries
+
 import numpy as np
+
 import pandas as pd
+
 import seaborn as sb
+
 import matplotlib.pyplot as plt
 
 Step 2: Load Dataset
@@ -107,13 +111,13 @@ and population driver licence percentage (0.698). This suggests that higher driv
 
 **Confidence Interval Results:**
 
-**Smartphone Screen Time (90% CI):**
+* **Smartphone Screen Time (90% CI):**
 The true mean screen-on time lies between **9.99 and 10.17 hours**.
 
-**Delivery Time (95% CI):**
+* **Delivery Time (95% CI):**
 The true average delivery time lies between **29.35 and 30.55 minutes**.
 
-**Student Study Hours (99% CI):**
+* **Student Study Hours (99% CI):**
 The true average weekly study hours lie between **14.78 and 16.16 hours**.
 
 **Hypothesis Testing Results:**
