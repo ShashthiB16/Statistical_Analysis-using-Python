@@ -1,4 +1,4 @@
-# **Statistics Analysis of Petrol Consumption Dataset using Python**
+# **Statistical Analysis of Petrol Consumption Dataset using Python**
 
 # **Project Objectives**
 
