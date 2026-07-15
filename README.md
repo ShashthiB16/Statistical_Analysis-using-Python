@@ -1,6 +1,6 @@
 # **Statistics Analysis of Petrol Consumption Dataset using Python**
 
-**Project Objectives**
+# **Project Objectives**
 
 * Analyze the statistical properties of the dataset.
 * Calculate measures of central tendency (Mean, Median, Mode).
@@ -8,7 +8,7 @@
 * Detect outliers using the IQR method.
 * Visualize data using different statistical plots.
 
-**Dataset Information**
+# **Dataset Information**
 
 Dataset Name: Petrol_Consumption.csv
 
@@ -20,7 +20,7 @@ Features:
 * Population_Driver_licence
 * Petrol_Consumption
 
-**Technologies Used**
+# **Technologies Used**
 
 * Python
 * Jupyter Notebook
@@ -29,27 +29,7 @@ Features:
 * Matplotlib
 * Seaborn
 
-**📈 Statistical Analysis Performed**
-
-1. Central Tendency
-* Mean
-* Median
-* Mode
-  
-2. Distribution Analysis
-* Skewness Analysis
-* KDE (Kernel Density Estimation) Plots
-  
-3. Outlier Detection
-* Boxplots
-* Interquartile Range (IQR) Method
-
-4. Data Visualization
-* KDE Plots
-* Boxplots
-* Statistical Graphs
-
-**📊 Project Workflow**
+# **Project Workflow**
 
 Step 1: Import Libraries
 
@@ -85,7 +65,7 @@ Step 6: Visualization
 * Boxplots
 * Distribution analysis
 
-**Key Insights**
+# **Key Insights**
 
  **Central Tendencies:**
  
@@ -125,7 +105,7 @@ For both AutoDrive Components Ltd. and FreshBake Foods Pvt. Ltd., the hypothesis
 This indicates that there is insufficient statistical evidence to conclude that the actual assembly time or baking time has increased beyond the values
 predicted by the theoretical models.
 
-**Conclusion**
+# **Conclusion**
 
 The statistical analysis revealed meaningful patterns in the dataset, including variations in petrol consumption, infrastructure differences, 
 and relationships between variables. The confidence interval analysis provided reliable estimates of population means, while hypothesis testing showed no 
